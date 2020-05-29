@@ -49,6 +49,16 @@ public class LoginPageTest extends base{
 	public void ChangedsecondTime()
 	{
 		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		
 	}
 	
 	@AfterTest
