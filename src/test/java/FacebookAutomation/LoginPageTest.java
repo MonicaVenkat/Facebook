@@ -43,6 +43,12 @@ public class LoginPageTest extends base{
 		System.out.println("Checkng purpose");
 	}
 	
+	@Test
+	public void ChangedsecondTime()
+	{
+		System.out.println("GIT is cool");
+	}
+	
 	@AfterTest
 	public void BrowserShutdown()
 	{
