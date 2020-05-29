@@ -40,7 +40,7 @@ public class LoginPageTest extends base{
 	@Test
 	public void testingFromClonedProject()
 	{
-		System.out.println("Checkng purpose");
+		System.out.println("GIT is merging");
 	}
 	
 	@Test
