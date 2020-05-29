@@ -36,10 +36,6 @@ public class LoginPageTest extends base{
 	FbLogin.SignInButton().click();
 	}
 	
-	
-	
-	
-	
 	@Test
 	public void ChangedsecondTime()
 	{
