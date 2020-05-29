@@ -41,7 +41,9 @@ public class LoginPageTest extends base{
 	public void testingFromClonedProject()
 	{
 		System.out.println("GIT is merging");
+		System.out.println("helo hai");
 	}
+
 	
 	@Test
 	public void ChangedsecondTime()
