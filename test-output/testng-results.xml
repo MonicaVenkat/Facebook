@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20893" started-at="2020-05-28T09:36:42Z" finished-at="2020-05-28T09:37:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20893" started-at="2020-05-28T09:36:42Z" finished-at="2020-05-28T09:37:02Z">
+      <class name="FacebookAutomation.LoginPageTest">
+        <test-method status="PASS" signature="BrowserInitialization()[pri:0, instance:FacebookAutomation.LoginPageTest@400cff1a]" name="BrowserInitialization" is-config="true" duration-ms="15911" started-at="2020-05-28T15:06:42Z" finished-at="2020-05-28T15:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserInitialization -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:FacebookAutomation.LoginPageTest@400cff1a]" name="Login" duration-ms="649" started-at="2020-05-28T15:06:57Z" finished-at="2020-05-28T15:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="BrowserShutdown()[pri:0, instance:FacebookAutomation.LoginPageTest@400cff1a]" name="BrowserShutdown" is-config="true" duration-ms="4300" started-at="2020-05-28T15:06:58Z" finished-at="2020-05-28T15:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserShutdown -->
+      </class> <!-- FacebookAutomation.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
