@@ -37,16 +37,8 @@ public class LoginPageTest extends base{
 	}
 	
 	
-	@Test
-	public void testingFromClonedProject()
-	{
-<<<<<<< HEAD
-		System.out.println("GIT is merging");
-=======
-		System.out.println("GIT is good");
-		System.out.println("Hsi");
->>>>>>> 5ddef2d... To raise merge conflict
-	}
+	
+	
 	
 	@Test
 	public void ChangedsecondTime()
