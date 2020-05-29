@@ -42,6 +42,21 @@ public class LoginPageTest extends base{
 	{
 		System.out.println("GIT is merging");
 		System.out.println("helo hai");
+		System.out.println("GIT is merging");
+		System.out.println("helo hai");
+		System.out.println("GIT is merging");
+		System.out.println("helo hai");
+		System.out.println("GIT is merging");
+		System.out.println("helo hai");
+		System.out.println("GIT is merging");
+		System.out.println("helo hai");
+		System.out.println("GIT is merging");
+		System.out.println("helo hai");
+		System.out.println("GIT is merging");
+		System.out.println("helo hai");
+		System.out.println("GIT is merging");
+		System.out.println("helo hai");
+		
 	}
 
 	
@@ -49,6 +64,16 @@ public class LoginPageTest extends base{
 	public void ChangedsecondTime()
 	{
 		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		System.out.println("GIT is cool");
+		
 	}
 	
 	@AfterTest
