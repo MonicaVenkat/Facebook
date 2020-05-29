@@ -36,6 +36,13 @@ public class LoginPageTest extends base{
 	FbLogin.SignInButton().click();
 	}
 	
+	
+	@Test
+	public void testingFromClonedProject()
+	{
+		System.out.println("GIT is merging");
+	}
+	
 	@Test
 	public void ChangedsecondTime()
 	{
@@ -47,5 +54,4 @@ public class LoginPageTest extends base{
 	{
 		driver.close();
 	}
-
 }
