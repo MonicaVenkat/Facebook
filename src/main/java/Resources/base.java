@@ -41,6 +41,7 @@ public class base {
 
 		} else if (browserName.equals("IE")) {
 //		IE code
+			//for reference
 		}
 
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
